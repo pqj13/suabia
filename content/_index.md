@@ -3,4 +3,6 @@ title: Suabia Ediciones
 toc: false
 ---
 
-{{< Página en construcción >}}
+{{< hextra/hero-subtitle >}}
+Página en construcción
+{{< /hextra/hero-subtitle >}}
