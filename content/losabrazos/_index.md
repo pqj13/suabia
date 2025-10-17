@@ -7,7 +7,7 @@ breadcrumbs: true
 {{< hextra/hero-subtitle >}}
 **Autor:** Pablo Rodríguez González
 {{< /hextra/hero-subtitle >}}
-![](losabrazosbanner.png)
+![](losabrazosbanner.avif)
 
 ---
 Los abrazos inhabitados hablan del autor, de Pablo en su esencia, con sus heridas, con su parte vulnerable expuesta.
